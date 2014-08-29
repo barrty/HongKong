@@ -1,0 +1,37 @@
+/* 
+    Created on : 29.08.2014, 13:51:48
+    Author     : vorfolomeev
+*/
+
+body {
+    text-align: center; 
+    margin-top: 25pt; 
+    background: #85c6f2;
+}
+a {
+    color: #468bca;
+    text-decoration: none;
+}
+.upload {
+    float: right;
+}
+.header {
+    text-align: center;
+    height: 30pt;
+}
+.listing {
+    margin-left: 40px;
+}
+.listing_disabled {
+    color: #666666;
+    margin-left: 40px;
+} 
+.preview {
+    margin-left: 1pt;
+    margin-right: 1pt;
+    margin-bottom: -1pt;
+}
+.footer {
+    text-align: left;
+    margin-left: 40px;
+}
